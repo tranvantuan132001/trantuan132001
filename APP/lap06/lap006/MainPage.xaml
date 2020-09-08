@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="lap006.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:lap006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    RequestedTheme="Light">
+
+
+    <Page.Resources>
+        <SolidColorBrush x:Key="AccentBrush" Color="{ThemeResource SystemAccentColor}"/>
+    </Page.Resources>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush} ">
+
+        <Rectangle Width="100" Height="100" Fill="{ThemeResource AccentBrush}"/>
+        <Rectangle Width="50" Height="50" Fill="{ThemeResource SystemColorWindowColor}"/>
+        <TextBlock Text="MY APP TITLE" Style="{ThemeResource HeaderTextBlockStyle}"/>
+    </Grid>
+
+</Page>
