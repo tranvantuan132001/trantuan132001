@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\baitap1.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\App.g.i.cs
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\MainPage.g.cs
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\App.xaml
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\MainPage.xaml
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\App.xbf
+C:\Users\ADMIN\source\repos\lap07\baitap1\obj\x86\Debug\MainPage.xbf
