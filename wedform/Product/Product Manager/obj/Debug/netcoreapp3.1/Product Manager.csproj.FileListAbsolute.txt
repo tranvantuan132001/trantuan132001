@@ -1,0 +1,41 @@
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.exe
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.deps.json
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.dll
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.pdb
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.dll
+C:\Users\ADMIN\source\repos\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.pdb
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.input.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.output.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorCoreGenerate.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.Views.pdb
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.Manifest.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.xml
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.dll
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.pdb
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorComponent.input.cache
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\RazorDeclaration\Product Manager.dll
+C:\Users\ADMIN\source\repos\Product Manager\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
